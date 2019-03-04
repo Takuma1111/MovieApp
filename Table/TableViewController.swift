@@ -112,17 +112,7 @@ class TableViewController: UIViewController,UISearchBarDelegate{
         ac.addAction(UIAlertAction(title: "OK", style: .default))
         present(ac,animated:true)
     }
-//    override func viewWillDisappear(_ animated: Bool) {
-//        super.viewWillDisappear(animated)
-//    }
-//
-//    override func viewWillAppear(_ animated: Bool) {
-//        super.viewWillAppear(animated)
-//    }
-//
-//    override var canBecomeFirstResponder: Bool {
-//        return true
-//    }
+
 }
 
 
