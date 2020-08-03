@@ -5,6 +5,5 @@ APIを利用した映画検索アプリです。
 * Swift
 
 # Screen Shot
-![image](https://user-images.githubusercontent.com/33933366/89182315-791bcb80-d5d0-11ea-82f4-19cc5e38d109.png)
-![image (1)](https://user-images.githubusercontent.com/33933366/89182388-981a5d80-d5d0-11ea-8857-9b60e8901993.png)
-<img src="![image (1)](https://user-images.githubusercontent.com/33933366/89182388-981a5d80-d5d0-11ea-8857-9b60e8901993.png)">
+<img width="300" alt="スクリーンショット 2020-08-03 21 12 13" src="https://d2v9k5u4v94ulw.cloudfront.net/assets/images/3540371/original/30ba8a6e-991b-497e-b8ab-299755bde978?1551489609">
+<img width="300" alt="スクリーンショット" src="https://d2v9k5u4v94ulw.cloudfront.net/assets/images/3540356/original/45557987-9bfb-4196-8804-4ae9bb0cdf92?1551488958">
